@@ -1,5 +1,5 @@
-**![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
+<!---  ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)             -->
 ![My GitHub](https://github-readme-stats.vercel.app/api?username=Lcrypto&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcrypto&theme=buefy&hide=html,php,css&count_private=true&show_icons=true&layout=compact)
