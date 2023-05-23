@@ -3,7 +3,7 @@
 
 
 
-<img src="https://github.com/Lcrypto/Lcrypto/blob/main/hu_awards.png" width="500" height="400">
+<img src="https://github.com/Lcrypto/Lcrypto/blob/main/hu_awards.png" width="450" height="360">
 
 <!--
 **Lcrypto/Lcrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
