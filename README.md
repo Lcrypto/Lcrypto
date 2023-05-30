@@ -4,6 +4,7 @@
 
 
 <img src="https://github.com/Lcrypto/Lcrypto/blob/main/hu_awards.png" width="405" height="326">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lcrypto&theme=buefy&hide=html,php,css&count_private=true&show_icons=true&layout=compact)
 
 
